@@ -1,0 +1,36 @@
+body{
+	width: 95%;
+	margin: 0 auto;
+}
+
+img{
+	width: 200px;
+	height: 200px
+}
+
+p{
+	font-size: 12px;
+}
+
+strong{
+	width: 40px;
+	display: inline-block;
+	text-align: right;
+}
+
+i{
+	display: inline-block;
+	margin-left: 5px
+}
+
+audio{
+	width: 100%
+}
+
+.card .card-content{
+	padding: 10px 15px
+}
+
+.card .card-action {
+	padding: 5px 5px
+}
